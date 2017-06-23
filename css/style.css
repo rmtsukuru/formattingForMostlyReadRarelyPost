@@ -1,0 +1,12 @@
+#input {
+    min-width: 600px;
+    float: left;
+}
+
+#output {
+    background-color: #dfd;
+    min-width: 400px;
+    margin-left: 20px;
+    padding: 15px;
+    float: left;
+}
